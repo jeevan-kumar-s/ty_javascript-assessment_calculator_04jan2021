@@ -1,0 +1,39 @@
+button
+{
+background-color:rgb(117, 126, 155);
+color: black;
+width:95%;
+height: 50px;
+outline: none;
+font-weight: 600;
+font-size: 20px;
+margin-bottom: 3px;
+margin-left: 3px;
+}
+button:hover
+{
+    background-color:rgb(17, 17, 17); 
+    color: rgb(255, 255, 255);
+    box-shadow: 2px 2px 4px rgb(15, 13, 13);
+}
+body
+{
+    background: linear-gradient(to left, #e66465, #9198e5);
+    background-size: cover;
+}
+input[type="text"]
+{
+    outline: none;
+    width: 98%;
+    height: 50px;
+    margin: auto;
+}
+table
+{   
+    background: linear-gradient(to left, #e66465, #9198e5);
+    margin-top: 100px;
+    width: 22%;
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+}
